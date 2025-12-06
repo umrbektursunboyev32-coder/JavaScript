@@ -487,7 +487,7 @@
 // odam['map']='senter'
 // delete odam.map
 // console.log(odam)
-
+alert('Salom')
 
 
 
